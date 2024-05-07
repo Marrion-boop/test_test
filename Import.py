@@ -51,3 +51,5 @@ Budget.grid(row=1, column=2)
 
 
 root.mainloop()
+
+print("Hello World")
